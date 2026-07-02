@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0076-minimum-window-substring) |
+| [0432-all-oone-data-structure](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0432-all-oone-data-structure) |
 ## Sliding Window
 |  |
 | ------- |
@@ -76,4 +77,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0177-nth-highest-salary) |
+## Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0432-all-oone-data-structure) |
+## Design
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0432-all-oone-data-structure) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
