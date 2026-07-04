@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0112-path-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union-Find
 |  |
@@ -99,4 +100,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0198-house-robber) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0112-path-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
