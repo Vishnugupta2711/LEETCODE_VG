@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0180-consecutive-numbers](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0180-consecutive-numbers) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0182-duplicate-emails) |
+| [0185-department-top-three-salaries](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0185-department-top-three-salaries) |
 ## Linked List
 |  |
 | ------- |
