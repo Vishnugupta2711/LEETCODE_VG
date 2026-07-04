@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0204-count-primes) |
 | [0503-next-greater-element-ii](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0739-daily-temperatures) |
@@ -94,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0432-all-oone-data-structure) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
