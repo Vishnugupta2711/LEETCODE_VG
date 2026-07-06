@@ -1,3 +1,5 @@
+// tabulation
+
 class Solution {
 public:
     int climbStairs(int n) {
@@ -11,12 +13,6 @@ public:
         return last;
     }
 };
-
-
-
-
-
-
 
 
 
