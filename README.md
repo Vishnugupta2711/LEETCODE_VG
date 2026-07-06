@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0204-count-primes) |
+| [0509-fibonacci-number](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0509-fibonacci-number) |
 ## Enumeration
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0198-house-robber) |
+| [0509-fibonacci-number](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0509-fibonacci-number) |
 ## Tree
 |  |
 | ------- |
@@ -112,4 +114,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0112-path-sum) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
