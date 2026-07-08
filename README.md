@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0182-duplicate-emails) |
 | [0185-department-top-three-salaries](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0185-department-top-three-salaries) |
 | [0197-rising-temperature](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0197-rising-temperature) |
+| [0511-game-play-analysis-i](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0511-game-play-analysis-i) |
 ## Linked List
 |  |
 | ------- |
