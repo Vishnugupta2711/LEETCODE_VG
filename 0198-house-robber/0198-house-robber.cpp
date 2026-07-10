@@ -2,15 +2,35 @@ class Solution {
 public:
     int rob(vector<int>& nums) {
         int n = nums.size();
-        vector<int> dp(n+2,0);
-        dp[n]=0;
-        dp[n+1]=0;
-        for(int i = n-1 ;i>= 0;i--){
-            dp[i] = max(nums[i]+dp[i+2],dp[i+1]);
+        int last = 0;
+        int seclast = 0;
+        int curr;
+        for(int i = n-1 ;i >=0;i--){
+            curr = max(nums[i]+last , seclast);
+            last = seclast;
+            seclast = curr;
         }
-        return dp[0];
+        return curr;
     }
 };
+
+
+
+
+// buttom-up approach
+// class Solution {
+// public:
+//     int rob(vector<int>& nums) {
+//         int n = nums.size();
+//         vector<int> dp(n+2,0);
+//         dp[n]=0;
+//         dp[n+1]=0;
+//         for(int i = n-1 ;i>= 0;i--){
+//             dp[i] = max(nums[i]+dp[i+2],dp[i+1]);
+//         }
+//         return dp[0];
+//     }
+// };
 
 
 
