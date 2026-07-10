@@ -1,3 +1,4 @@
+// space-optimization
 class Solution {
 public:
     int rob(vector<int>& nums) {
@@ -10,7 +11,7 @@ public:
             last = seclast;
             seclast = curr;
         }
-        return curr;
+        return seclast;
     }
 };
 
