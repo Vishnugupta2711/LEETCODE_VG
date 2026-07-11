@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 ## String
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 ## Matrix
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0509-fibonacci-number) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 ## Tree
 |  |
 | ------- |
@@ -147,8 +150,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 ## Sorting
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 <!---LeetCode Topics End-->
