@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0076-minimum-window-substring) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0509-fibonacci-number) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/3312-sorted-gcd-pair-queries) |
 ## Enumeration
 |  |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0055-jump-game) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Graph Theory
 |  |
