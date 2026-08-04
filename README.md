@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0486-predict-the-winner) |
 | [0503-next-greater-element-ii](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0518-coin-change-ii) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0518-coin-change-ii) |
@@ -201,4 +203,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0486-predict-the-winner) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
