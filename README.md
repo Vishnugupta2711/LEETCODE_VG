@@ -88,10 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0509-fibonacci-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/3312-sorted-gcd-pair-queries) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0204-count-primes) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Number Theory
 |  |
 | ------- |
