@@ -213,4 +213,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0416-partition-equal-subset-sum) |
+## Minimax
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
