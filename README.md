@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0204-count-primes) |
 | [0486-predict-the-winner](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0486-predict-the-winner) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0213-house-robber-ii) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0062-unique-paths) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/3312-sorted-gcd-pair-queries) |
 ## Counting
 |  |
