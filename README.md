@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0204-count-primes) |
@@ -232,4 +233,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0486-predict-the-winner) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
