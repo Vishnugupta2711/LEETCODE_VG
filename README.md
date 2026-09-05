@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3903-smallest-stable-index-i](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/3904-smallest-stable-index-ii) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 ## String
 |  |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/3312-sorted-gcd-pair-queries) |
 | [3903-smallest-stable-index-i](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/3904-smallest-stable-index-ii) |
 ## Game Theory
 |  |
 | ------- |
