@@ -36,19 +36,11 @@ public:
     }
 
     vector<vector<string>> solveNQueens(int n) {
-
         vector<string> board(n, string(n, '.'));
-
         vector<int> col(n, 0);
-
-
         vector<int> diagonal1(2 * n - 1, 0);
-
-
         vector<int> diagonal2(2 * n - 1, 0);
-
         solve(0, n, board, col, diagonal1, diagonal2);
-
         return ans;
     }
 };
