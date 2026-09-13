@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0518-coin-change-ii) |
 | [0739-daily-temperatures](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0740-delete-and-earn) |
+| [0835-image-overlap](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0835-image-overlap) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/3312-sorted-gcd-pair-queries) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0835-image-overlap) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Math
 |  |
