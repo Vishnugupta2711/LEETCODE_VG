@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0626-exchange-seats](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0626-exchange-seats) |
 | [1045-customers-who-bought-all-products](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/1045-customers-who-bought-all-products) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1068-product-sales-analysis-i](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/1068-product-sales-analysis-i) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/1327-list-the-products-ordered-in-a-period) |
 ## Linked List
