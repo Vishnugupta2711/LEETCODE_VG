@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0387-first-unique-character-in-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0387-first-unique-character-in-a-string) |
 | [0432-all-oone-data-structure](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0432-all-oone-data-structure) |
 | [0740-delete-and-earn](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0740-delete-and-earn) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/3312-sorted-gcd-pair-queries) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0387-first-unique-character-in-a-string) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/3312-sorted-gcd-pair-queries) |
 ## Prefix Sum
 |  |
@@ -261,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0836-rectangle-overlap) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
