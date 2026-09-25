@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0055-jump-game) |
 | [0128-longest-consecutive-sequence](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0128-longest-consecutive-sequence) |
+| [0137-single-number-ii](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0137-single-number-ii) |
 | [0198-house-robber](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0213-house-robber-ii) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0137-single-number-ii) |
 | [0461-hamming-distance](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0461-hamming-distance) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
