@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0740-delete-and-earn) |
 | [0835-image-overlap](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0835-image-overlap) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/3312-sorted-gcd-pair-queries) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0316-remove-duplicate-letters) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0387-first-unique-character-in-a-string) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0387-first-unique-character-in-a-string) |
 | [0432-all-oone-data-structure](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0432-all-oone-data-structure) |
 | [0740-delete-and-earn](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0740-delete-and-earn) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/3312-sorted-gcd-pair-queries) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sliding Window
