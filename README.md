@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0316-remove-duplicate-letters) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0387-first-unique-character-in-a-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0739-daily-temperatures) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -307,4 +309,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
