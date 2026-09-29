@@ -6,11 +6,9 @@ public:
 
         int len = m + n - 1;
 
-        // A valid parentheses string must have even length.
         if (len % 2 != 0)
             return false;
 
-        // Balance can never exceed len.
         vector<vector<vector<bool>>> dp(
             m,
             vector<vector<bool>>(n, vector<bool>(len + 1, false))
@@ -39,11 +37,9 @@ public:
                     if (newBalance < 0 || newBalance > len)
                         continue;
 
-                    // Come from top
                     if (i > 0 && dp[i - 1][j][newBalance])
                         dp[i][j][balance] = true;
 
-                    // Come from left
                     if (j > 0 && dp[i][j - 1][newBalance])
                         dp[i][j][balance] = true;
                 }
