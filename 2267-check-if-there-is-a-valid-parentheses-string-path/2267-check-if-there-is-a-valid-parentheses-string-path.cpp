@@ -9,10 +9,7 @@ public:
         if (len % 2 != 0)
             return false;
 
-        vector<vector<vector<bool>>> dp(
-            m,
-            vector<vector<bool>>(n, vector<bool>(len + 1, false))
-        );
+        vector<vector<vector<bool>>> dp(m,vector<vector<bool>>(n, vector<bool>(len + 1, false)));
 
         if (grid[0][0] == ')')
             return false;
