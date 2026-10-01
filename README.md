@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0242-valid-anagram) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0032-longest-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0316-remove-duplicate-letters) |
 | [0503-next-greater-element-ii](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0503-next-greater-element-ii) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
