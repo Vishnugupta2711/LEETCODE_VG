@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0200-number-of-islands) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0112-path-sum) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0112-path-sum) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Recursion
