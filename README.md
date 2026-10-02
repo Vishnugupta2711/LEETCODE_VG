@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/1971-find-if-path-exists-in-graph) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/1971-find-if-path-exists-in-graph) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/1971-find-if-path-exists-in-graph) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
@@ -347,4 +351,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
