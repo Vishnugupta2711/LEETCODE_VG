@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0055-jump-game) |
 | [0128-longest-consecutive-sequence](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0130-surrounded-regions) |
 | [0137-single-number-ii](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0137-single-number-ii) |
 | [0198-house-robber](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0200-number-of-islands) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0112-path-sum) |
+| [0130-surrounded-regions](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0994-rotting-oranges) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/1971-find-if-path-exists-in-graph) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0835-image-overlap) |
@@ -221,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0112-path-sum) |
+| [0130-surrounded-regions](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0733-flood-fill) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/1971-find-if-path-exists-in-graph) |
