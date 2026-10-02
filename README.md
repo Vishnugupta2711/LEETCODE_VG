@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0032-longest-valid-parentheses) |
+| [0072-edit-distance](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0316-remove-duplicate-letters) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0416-partition-equal-subset-sum) |
