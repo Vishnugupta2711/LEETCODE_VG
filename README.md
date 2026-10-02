@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0740-delete-and-earn) |
 | [0835-image-overlap](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0835-image-overlap) |
+| [0994-rotting-oranges](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0994-rotting-oranges) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0994-rotting-oranges) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union-Find
 |  |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0835-image-overlap) |
+| [0994-rotting-oranges](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0994-rotting-oranges) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Math
