@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0210-course-schedule-ii) |
 | [0733-flood-fill](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/1971-find-if-path-exists-in-graph) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0210-course-schedule-ii) |
 | [0733-flood-fill](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0802-find-eventual-safe-states) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0802-find-eventual-safe-states) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/1971-find-if-path-exists-in-graph) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
@@ -370,8 +373,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0802-find-eventual-safe-states) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0207-course-schedule) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
