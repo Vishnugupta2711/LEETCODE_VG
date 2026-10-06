@@ -1,20 +1,20 @@
 class Solution {
 public:
     int minAddToMakeValid(string s) {
-        int open_needed = 0;
-        int close_needed = 0;
+        int open = 0;
+        int close = 0;
         
         for (char c : s) {
             if (c == '(') {
-                close_needed++;
+                close++;
             } else if (c == ')') {
-                if (close_needed > 0) {
-                    close_needed--;
+                if (close > 0) {
+                    close--;
                 } else {
-                    open_needed++;
+                    open++;
                 }
             }
         }
-        return open_needed + close_needed;
+        return open + close;
     }
 };
