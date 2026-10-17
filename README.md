@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/3312-sorted-gcd-pair-queries) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3903-smallest-stable-index-i](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/3904-smallest-stable-index-ii) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0740-delete-and-earn) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/3312-sorted-gcd-pair-queries) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sliding Window
 |  |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0349-intersection-of-two-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Shortest Path
 |  |
 | ------- |
