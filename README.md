@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0089-gray-code) |
 | [0137-single-number-ii](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0137-single-number-ii) |
 | [0461-hamming-distance](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0461-hamming-distance) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0089-gray-code) |
 | [0204-count-primes](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0204-count-primes) |
 | [0486-predict-the-winner](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0509-fibonacci-number) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0051-n-queens) |
+| [0089-gray-code](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0089-gray-code) |
 ## Algorithm X
 |  |
 | ------- |
