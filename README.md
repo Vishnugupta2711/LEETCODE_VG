@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3903-smallest-stable-index-i](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/3904-smallest-stable-index-ii) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0137-single-number-ii) |
 | [0461-hamming-distance](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0461-hamming-distance) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Hash Table
 |  |
 | ------- |
