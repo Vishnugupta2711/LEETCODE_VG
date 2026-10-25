@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0740-delete-and-earn) |
 | [0835-image-overlap](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/1254-number-of-closed-islands) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/1971-find-if-path-exists-in-graph) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union-Find
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0785-is-graph-bipartite) |
+| [1254-number-of-closed-islands](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/1971-find-if-path-exists-in-graph) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Math
@@ -262,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0802-find-eventual-safe-states) |
+| [1254-number-of-closed-islands](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
