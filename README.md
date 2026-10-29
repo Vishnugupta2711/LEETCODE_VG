@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0316-remove-duplicate-letters) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0392-is-subsequence) |
 | [0856-score-of-parentheses](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1092-shortest-common-supersequence](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/1092-shortest-common-supersequence) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0213-house-robber-ii) |
+| [0392-is-subsequence](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0509-fibonacci-number) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0392-is-subsequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
 |  |
