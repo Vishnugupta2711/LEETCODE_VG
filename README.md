@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0349-intersection-of-two-arrays) |
 | [0416-partition-equal-subset-sum](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0416-partition-equal-subset-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0486-predict-the-winner) |
 | [0503-next-greater-element-ii](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0518-coin-change-ii) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0089-gray-code) |
 | [0204-count-primes](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0204-count-primes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0836-rectangle-overlap) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0349-intersection-of-two-arrays) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
