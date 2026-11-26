@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/3360-stone-removal-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Enumeration
@@ -451,4 +452,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1092-shortest-common-supersequence](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/1092-shortest-common-supersequence) |
+## Simulation
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/Vishnugupta2711/LEETCODE_VG/tree/master/3360-stone-removal-game) |
 <!---LeetCode Topics End-->
